@@ -572,11 +572,11 @@ defaultContentLanguage = "en"
       title = "Publisher"
       weight = 3
     [[languages.en.menu.main]]
-      identifier = "categories"
+      identifier = "resume"
       pre = ""
       post = ""
-      name = "Categories"
-      url = "/categories/"
+      name = "Resume"
+      url = "/resume/"
       title = ""
       weight = 4
 
@@ -585,7 +585,7 @@ defaultContentLanguage = "en"
     title = "Gianmarco Andreana"
     languageCode = "it"
     languageName = "Italiano"
-	[[languages.it.menu.main]]
+    [[languages.it.menu.main]]
       identifier = "sudime"
       pre = ""
       post = ""
