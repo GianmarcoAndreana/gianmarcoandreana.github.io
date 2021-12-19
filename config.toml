@@ -12,7 +12,7 @@ theme = "LoveIt"
   # LoveIt CHANGED | 0.2.0 LoveIt theme version
   version = "0.2.X"
   # site description
-  description = "This is My New Hugo Site"
+  description = "Gianmarco Andreana webpage"
   # site keywords
   keywords = ["Theme", "Hugo"]
   # site default theme ("light", "dark", "auto")
@@ -95,7 +95,7 @@ theme = "LoveIt"
     # LoveIt NEW | 0.2.0 whether to show the author
     author = true
     # Site creation time
-    since = 2019
+    since = 2021
     # ICP info only in China (HTML format is supported)
     icp = ""
     # license info (HTML format is supported)
