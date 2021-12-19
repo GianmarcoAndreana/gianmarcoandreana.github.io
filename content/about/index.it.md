@@ -10,9 +10,9 @@ I miei interessi di ricerca sono legati all'Economia dei Trasporti, in modo part
 
 ### Interessi
 
-> * : Economia dei trasporti
-> * : Ricerca Operativa
-> * : Aviazione
-> * : Competizione delle compagnie aeree
-> * : Teoria dei giochi
-> * : Ambiente
+> *  Economia dei trasporti
+> *  Ricerca Operativa
+> *  Aviazione
+> *  Competizione delle compagnie aeree
+> *  Teoria dei giochi
+> *  Ambiente
