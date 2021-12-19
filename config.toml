@@ -569,7 +569,7 @@ defaultContentLanguage = "en"
       post = ""
       name = "Publications"
       url = "/publications/"
-      title = "Publisher"
+      title = ""
       weight = 3
     [[languages.en.menu.main]]
       identifier = "resume"
@@ -586,11 +586,11 @@ defaultContentLanguage = "en"
     languageCode = "it"
     languageName = "Italiano"
     [[languages.it.menu.main]]
-      identifier = "sudime"
+      identifier = "about"
       pre = ""
       post = ""
       name = "Su di me"
-      url = "/sudime/"
+      url = "/about/"
       title = ""
       weight = 1
     [[languages.it.menu.main]]
@@ -602,18 +602,18 @@ defaultContentLanguage = "en"
       title = ""
       weight = 2
     [[languages.it.menu.main]]
-      identifier = "pubblicazioni"
+      identifier = "publications"
       pre = ""
       post = ""
       name = "Pubblicazioni"
-      url = "/pubblicazioni/"
+      url = "/publications/"
       title = ""
       weight = 3
     [[languages.it.menu.main]]
-      identifier = "curriculum"
+      identifier = "resume"
       pre = ""
       post = ""
       name = "Curriculum"
-      url = "/curriculum/"
+      url = "/resume/"
       title = ""
       weight = 4
