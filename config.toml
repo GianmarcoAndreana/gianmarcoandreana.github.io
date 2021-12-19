@@ -8,8 +8,6 @@ title = "Gianmarco Andreana"
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
 
-publishDir = "docs"
-
 [params]
   # LoveIt CHANGED | 0.2.0 LoveIt theme version
   version = "0.2.X"
