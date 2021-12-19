@@ -1,0 +1,7 @@
+# Informs Annual Meeting.  Anaheim, CA | October 24-27, 2021
+
+
+I'm going to present the work I'm developing with my advisor, Professor [Nicole Adler](https://nicoleadler.huji.ac.il/), from the title "Aiding airlines for the benefit of whom? An applied game-theoretic model" at the [INFORMS Annual Meeting 2021](https://meetings.informs.org/wordpress/anaheim2021/).
+
+See you there!
+
