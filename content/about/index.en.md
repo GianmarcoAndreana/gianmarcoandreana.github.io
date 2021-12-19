@@ -10,9 +10,9 @@ My research interests are related to Transportation Economics, particularly towa
 
 ### Interests
 
-> * : Transportation
-> * : Operations research
-> * : Aviation
-> * : Airline competition
-> * : Game theory
-> * : Environment
+> *  Transportation
+> *  Operations research
+> *  Aviation
+> *  Airline competition
+> *  Game theory
+> *  Environment
