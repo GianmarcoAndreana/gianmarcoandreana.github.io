@@ -12,7 +12,8 @@ math:
 Here you can see and [download](https://raw.githubusercontent.com/GianmarcoAndreana/gianmarcoandreana.github.io/main/Gianmarco_Andreana_CV.pdf) my CV
 
 <iframe
-    src="https://raw.githubusercontent.com/GianmarcoAndreana/gianmarcoandreana.github.io/main/Gianmarco_Andreana_CV.pdf&embedded=true"
+    src="https://raw.githubusercontent.com/GianmarcoAndreana/gianmarcoandreana.github.io/main/Gianmarco_Andreana_CV.pdf"
+    embedded=true
     frameBorder="0"
     scrolling="auto"
     height="100%"
