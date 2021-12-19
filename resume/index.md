@@ -3,12 +3,8 @@
 
 Here you can see and [download](https://raw.githubusercontent.com/GianmarcoAndreana/gianmarcoandreana.github.io/main/Gianmarco_Andreana_CV.pdf) my CV
 
-<iframe
-    src="https://raw.githubusercontent.com/GianmarcoAndreana/gianmarcoandreana.github.io/main/Gianmarco_Andreana_CV.pdf"
-    embedded=true
-    frameBorder="0"
-    scrolling="auto"
-    height="100%"
-    width="100%"
-></iframe>
+<object data="https://raw.githubusercontent.com/GianmarcoAndreana/gianmarcoandreana.github.io/main/Gianmarco_Andreana_CV.pdf" type="application/pdf">
+    <iframe src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/GianmarcoAndreana/gianmarcoandreana.github.io/main/Gianmarco_Andreana_CV.pdf&embedded=true"></iframe>
+</object>
+
 
