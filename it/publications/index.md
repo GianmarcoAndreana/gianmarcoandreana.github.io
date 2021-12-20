@@ -1,4 +1,4 @@
-# All Publications
+# Tutte le pubblicazioni
 
 
 ### Pubblicati
