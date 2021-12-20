@@ -547,7 +547,7 @@ defaultContentLanguage = "en"
     title = "Gianmarco Andreana"
     languageCode = "en"
     languageName = "English"
-	[[languages.en.menu.main]]
+    [[languages.en.menu.main]]
       identifier = "about"
       pre = ""
       post = ""
