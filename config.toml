@@ -554,7 +554,7 @@ defaultContentLanguage = "en"
       name = "About"
       url = "/about/"
       title = ""
-      weight = 1
+      weight = 2
     [[languages.en.menu.main]]
       identifier = "posts"
       pre = ""
@@ -562,7 +562,7 @@ defaultContentLanguage = "en"
       name = "Posts"
       url = "/posts/"
       title = ""
-      weight = 2
+      weight = 3
     [[languages.en.menu.main]]
       identifier = "publications"
       pre = ""
@@ -570,7 +570,7 @@ defaultContentLanguage = "en"
       name = "Publications"
       url = "/publications/"
       title = ""
-      weight = 3
+      weight = 4
     [[languages.en.menu.main]]
       identifier = "resume"
       pre = ""
@@ -578,7 +578,7 @@ defaultContentLanguage = "en"
       name = "Resume"
       url = "/resume/"
       title = ""
-      weight = 4
+      weight = 5
 
   [languages.it]
     weight = 1
@@ -592,7 +592,7 @@ defaultContentLanguage = "en"
       name = "Su di me"
       url = "/about/"
       title = ""
-      weight = 1
+      weight = 2
     [[languages.it.menu.main]]
       identifier = "posts"
       pre = ""
@@ -600,7 +600,7 @@ defaultContentLanguage = "en"
       name = "Posts"
       url = "/posts/"
       title = ""
-      weight = 2
+      weight = 3
     [[languages.it.menu.main]]
       identifier = "publications"
       pre = ""
@@ -608,7 +608,7 @@ defaultContentLanguage = "en"
       name = "Pubblicazioni"
       url = "/publications/"
       title = ""
-      weight = 3
+      weight = 4
     [[languages.it.menu.main]]
       identifier = "resume"
       pre = ""
@@ -616,4 +616,4 @@ defaultContentLanguage = "en"
       name = "Curriculum"
       url = "/resume/"
       title = ""
-      weight = 4
+      weight = 5
